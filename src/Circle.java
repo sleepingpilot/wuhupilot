@@ -16,7 +16,7 @@ public class Circle
         diameter = 70;
         xPosition = 230;
         yPosition = 90;
-        color = "green";
+        color = "yellow";
     }
 
     public void makeVisible()
