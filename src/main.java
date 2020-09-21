@@ -6,7 +6,8 @@ public class main
         Square square1 = new Square();
         
          circle1.makeVisible(); //出现一个窗口，中间一个蓝色圆
-      
+         circle1.moveVertical(90);//垂直下移90
+         circle1.moveHorizontal(-70);//左移70
        
         
     }
